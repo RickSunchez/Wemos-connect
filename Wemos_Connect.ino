@@ -2,8 +2,8 @@
 
 #define LED 2
 
-const char* ssid = "nk_print";
-const char* password = "september2016";
+const char* ssid = "YOUR_WIFI_SSID(name)";
+const char* password = "YOUT_WIFI_PASSWORD";
 
 WiFiServer server(80);
 
